@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mohsinkhan25. I am a current Texas A&M student in the College of Engineering.
+- 👋 Hi, I’m @mohsinkhan25. I am a current Texas A&M Computer Engineering Student
 - 👀 I’m interested in expanding my knowledge in the endless realm of what a computer, and its science, has to offer.
-- 🌱 I’m currently learning python and dapp development.
+- 🌱 I’m currently learning C++, Python, Swift, Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on beginner/intermediate data structures, algorithms, and OOP in Python/Java/C++.
 - 📫 I can be reached via email: mohsin.ik23@gmail.com
 
